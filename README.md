@@ -1,4 +1,5 @@
 <div align="center">
+  
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Mathis</h1>
 <h4 align="center">a web developer</h4>
 </div>
@@ -11,26 +12,13 @@
 
 <details>
   <summary>🧮 about</summary>
-  <li>
-    <ul>🔭 I’m currently working as an analyst consultant</ul>
-    <ul>🌱 I’m currently learning remote development with Gitpod</ul>
-    <ul>😄 Pronouns: he/him</ul>
-  </li>
-</details>
-
-<details>
-  <summary>☎️ contact me</summary>
-<div>
-  <samp>
-    <h2 align="center">📫 How to reach me: </h2>
-    <p align="center">
-      <br/>
-      <a href="https://www.linkedin.com/in/mathis-charretier-912256173/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="azzar" height="30"/></a>
-      <br>
-    </p>
-  </samp>
-</div>
+  <div>
+  <ul>
+    <li>🔭 I’m currently working as an analyst consultant</li>
+    <li>🌱 I’m currently learning remote development with Gitpod</li>
+    <li>😄 Pronouns: he/him</li>
+  </ul>
+    </div>
 </details>
 
 <details> 
