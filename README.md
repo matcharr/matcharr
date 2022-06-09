@@ -28,7 +28,7 @@
       <br/>
         <p align="center">
           <a href="https://github.com/matcharr/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matcharr&layout=compact&theme=calm&show_icons=true&hide=html,ruby" alt="matcharr :: Top Langs" /></a>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matcharr&layout=compact&theme=calm&show_icons=true&hide=html,ruby,css" alt="matcharr :: Top Langs" /></a>
         </p>
         <p align="center">
           <a href="https://github.com/matcharr/">
