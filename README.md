@@ -12,8 +12,8 @@
   <summary>🧮 about</summary>
   <div>
   <ul>
-    <li>🔭 I’m currently working as an analyst consultant</li>
-    <li>🌱 I’m currently learning remote development with Gitpod</li>
+<!--     <li>🔭 I’m currently working as an analyst consultant</li> -->
+<!--     <li>🌱 I’m currently learning remote development with Gitpod</li> -->
     <li>😄 Pronouns: he/him</li>
   </ul>
     </div>
